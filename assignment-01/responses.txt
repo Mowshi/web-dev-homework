@@ -1,0 +1,4 @@
+The internet is the connection of machines through a seriuse of nodes and cables while the web is the actual information being connected through hypertext.
+Computers are connected together world wide through a tangled mess of nodes and cables which alows them to "talk" to one another by sending packets of information.
+A directory is like a master file that stores other files that have something to do with the subject of the directory.
+A VCS like Github allows collaboration between multiple clients and the opportunity to make changes to a project while documenting. 
