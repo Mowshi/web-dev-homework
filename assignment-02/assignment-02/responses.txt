@@ -1,0 +1,4 @@
+1. Most data travels over the internet via fiber optics that emit light to send binary messages.
+2. A DNS is the name of a website such a Google.com, but in order for a site to be accessed by other machines, it has a unique IP address so it can be found. Machines themselves have an IP too.
+3. Cookies are packets of info stored on a machine that get passed to other IPs.
+4.The protocol (https), domain name (Google.com), and the path (/search).
