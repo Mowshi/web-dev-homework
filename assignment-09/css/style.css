@@ -1,0 +1,68 @@
+
+/*
+this was kinda hard
+*/
+
+h1
+{
+  position: absolute;
+  top: 10%;
+  left: 47%;
+  size: 300;
+
+  color: white;
+
+}
+
+.square
+{
+  width: 100%;
+  height: 160px;
+  opacity: inherit;
+}
+
+#blue
+{
+  background-color: #4287f5;
+}
+#darkblu
+{
+  background-color: #1a188c;
+}
+#darkpurp
+{
+  background-color: #65188c;
+}
+#purp
+{
+  background-color: #b31db3;
+}
+#red
+{
+  background-color: #b31d63;
+}
+#yellow
+{
+  background-color: #fac655;
+}
+
+#arcade
+{
+  top: 15%;
+  left: 35%;
+
+  position: absolute;
+  display: block;margin-left: auto; margin-right: auto;
+  width: 800px;
+  height: 450px;
+}
+#delo
+{
+  top: 50%;
+  left: 30%;
+
+  position: absolute;
+  display: block;margin-left: auto; margin-right: auto;
+  width: 800px;
+  height: 450px;
+}
