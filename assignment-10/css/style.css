@@ -1,0 +1,53 @@
+body
+{
+  background-color: #b89965;
+  color: black;
+  padding: 5px;
+  font-family: 'Arvo', serif;
+}
+
+h4
+{
+  font-family: 'Arvo', serif;
+}
+
+h2
+{
+  font-style: italic;
+  font-family: 'Arvo', serif;
+}
+
+h1
+{
+  font-family: 'Alfa Slab One', cursive;
+}
+
+.text
+{
+  background-color: white;
+  color: black;
+  padding: 5px;
+}
+
+p: :
+{
+
+}
+
+a
+{
+  background-color: white;
+  color: black;
+}
+a:hover
+{
+  font-weight: bold;
+}
+a:visited
+{
+  color: grey;
+}
+a:active
+{
+
+}
