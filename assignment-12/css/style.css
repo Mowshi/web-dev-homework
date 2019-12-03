@@ -1,0 +1,126 @@
+h1
+{
+  font-family: 'Arvo', serif;
+}
+
+h2
+{
+  color: white;
+}
+
+#button:hover
+{
+  background-color: #f0d4c0;
+}
+
+
+.parent-containerBG
+{
+  z-index: 0;
+   width: 100%;
+   height: 950px;
+   background-color: #870c5a;
+}
+.parent-containerBG h2
+{
+   font-size: x-large;
+   font-weight: bolder;
+   font-style: italic;
+}
+.bottom-halfBG
+{
+  z-index: 0;
+   width: 100%;
+   height: 50%;
+   background-color: #ba1c80;
+}
+
+.parent-containerSB
+{
+  z-index: 1;
+  width: 20%;
+  height: 950px;
+  min-width: 300px;
+  top: 8px;
+  left: 20px;
+  border: 2px solid #f0d4c0;
+  position: fixed;
+  background-color: #c8c0f0;
+}
+
+.logo
+{
+  z-index: 2;
+  width: 200px;
+  height: 100px;
+  left: 50px;
+  top: 50px;
+  position: absolute;
+  background-color: white;
+}
+
+.parent-containerP
+{
+  z-index: 5;
+  width: 600px;
+  height: 400px;
+  left: 450px;
+  top: 500px;
+  position: absolute;
+  background-color: white;
+}
+
+.info
+{
+  z-index: 2;
+  left: 20px;
+  top: 50px;
+  position: relative;
+  color: white;
+}
+
+.contact
+{
+  z-index: 2;
+  left: 20px;
+  top: 70px;
+  position: relative;
+  color: white;
+}
+
+.events
+{
+  z-index: 2;
+  left: 20px;
+  top: 90px;
+  position: relative;
+  color: white;
+}
+
+.title
+{
+  z-index: 2;
+  left: 500px;
+  top: 50px;
+  position: absolute;
+  display: inline;
+  margin: 1%;
+}
+
+.textBox
+{
+  z-index: 10;
+  top: 500px;
+  left: 500px;
+  position: absolute;
+  background-color: #c8c0f0;
+}
+
+.subbut
+{
+  z-index: 10;
+  left: 500px;
+  top: 850px;
+  position: absolute;
+  color: white;
+}
