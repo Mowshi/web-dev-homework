@@ -122,15 +122,20 @@ li {
   font-family: 'Raleway', sans-serif;
   font-size: 30;
   color: black;
+  text-align: center;
   margin: auto;
-  font-weight: bold;
+  width: 100%;
+  position: absolute;
+  display: table-cell;
+  vertical-align: middle;
+
 }
 #middletext
 {
-  text-align: center;
+
   width: 100%;
   top: 450px;
-  position: absolute;
+
 }
 #cost
 {
